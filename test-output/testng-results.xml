@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54087" started-at="2021-02-21T16:32:57Z" finished-at="2021-02-21T16:33:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54087" started-at="2021-02-21T16:32:57Z" finished-at="2021-02-21T16:33:51Z">
+      <class name="TestCaseExecution.logintest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:TestCaseExecution.logintest@6d4b1c02]" name="openbrowser" is-config="true" duration-ms="25041" started-at="2021-02-21T16:32:57Z" finished-at="2021-02-21T16:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="TestCase_One()[pri:0, instance:TestCaseExecution.logintest@6d4b1c02]" name="TestCase_One" duration-ms="27301" started-at="2021-02-21T16:33:22Z" finished-at="2021-02-21T16:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_One -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCaseExecution.logintest@6d4b1c02]" name="closeBrowser" is-config="true" duration-ms="1662" started-at="2021-02-21T16:33:49Z" finished-at="2021-02-21T16:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCaseExecution.logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
